@@ -1,0 +1,6 @@
+{
+  "name": "BillBook",
+  "description": "GST billing, inventory, invoicing, and accounting app for small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
